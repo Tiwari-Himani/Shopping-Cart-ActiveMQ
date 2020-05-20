@@ -21,6 +21,8 @@ The code should:
 
 ## Setup and run
 
+https://github.com/Tiwari-Himani/Shopping-Cart-ActiveMQ.git
+
 Import shopping-cart-assignment project to IDE
 
 Run as a conventional SpringBoot application though IDE or command line.
